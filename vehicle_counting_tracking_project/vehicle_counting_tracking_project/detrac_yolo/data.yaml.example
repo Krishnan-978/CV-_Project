@@ -1,0 +1,11 @@
+# Example only: class IDs and names MUST match your actual annotated dataset.
+path: ./detrac_yolo
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: car
+  1: bus
+  2: truck
+  3: van

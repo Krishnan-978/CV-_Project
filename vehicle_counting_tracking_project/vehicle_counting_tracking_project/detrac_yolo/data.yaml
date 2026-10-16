@@ -1,0 +1,10 @@
+path: C:/projects/traffic-analytics-system/data/datasets/vehicle_detection
+train: train/images
+val: valid/images
+test: test/images
+nc: 4
+names:
+  - car
+  - bus
+  - truck
+  - van
